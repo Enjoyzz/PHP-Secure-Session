@@ -19,8 +19,7 @@
   "autoload": {
       "psr-4": {
           "PHPSecureSession\\": "src/"
-      },
-      "files": ["bin/register_secure_session.php"]
+      }
   },
   "autoload-dev": {
       "files": ["test/autoload.php"],
